@@ -1,0 +1,45 @@
+- title: Staff Machine Learning Engineer, Epidemic Sound
+  from: 2024
+  to: present
+  description: Building machine-learning based production systems and prototypes.
+               Focused on agentic discovery systems and search.
+
+- title: Senior Machine Learning Engineer, Epidemic Sound
+  from: 2019
+  to: 2023
+  description: Built production systems and prototypes delivering machine-learning
+               based features to end users. Focused on recommender systems and search.
+
+- title: Data Scientist, YDB Technologies AB
+  from: 2018
+  to: 2019
+  description: Built data infrastructure and data-driven features
+               at YDB Tech (subsidiary of Fyndiq).
+
+- title: Data Scientist, Fyndiq
+  from: 2017
+  to: 2018
+  description: Built recommender systems (learning to rank) using neural networks
+               and shallow methods such as matrix factorization with Python.
+
+- title: Senior Bioinformatician, Karolinska Institutet
+  from: 2014
+  to: 2016
+  description: Led development of the bioinformatics pipeline in the
+               Clinical Sequencing of Cancer program.
+
+- title: Postdoctoral Fellow, Science for Life Laboratory
+  from: 2010
+  to: 2013
+  description: Headed the KARMA Tissue study at Karolinska Institutet,
+               coordinating logistics and computational analysis.
+
+- title: Ph.D. in Biotechnology, KTH Royal Institute of Technology
+  from: 2005
+  to: 2009
+  description: Transcriptome analysis, gene expression, massive sequencing,
+               bioinformatics, non-coding RNA, small RNA.
+
+- title: M.Sc. in Biotechnology, KTH Royal Institute of Technology
+  from: 2000
+  to: 2005

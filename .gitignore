@@ -1,4 +1,6 @@
-_site/*
+_site/
+.sass-cache/
+Gemfile.lock
 _theme_packages/*
 
 Thumbs.db
