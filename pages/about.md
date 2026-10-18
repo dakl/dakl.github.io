@@ -8,7 +8,7 @@ weight: 3
 # **About Me**
 
 Hi, I'm **{{ site.author.name }}**,<br>
-a Staff Machine Learning Engineer at [Epidemic Sound](https://www.epidemicsound.com) in Stockholm, where I work mostly on agentic discovery systems and search.
+a Senior AI Engineer at [Odevo](https://www.odevo.com), building agentic systems.
 
 Before moving into industry, I did a PhD in bioinformatics - which is where I first fell in love with building things from data. These days I build agentic and ML-powered systems using Python, GCP, Kubernetes, and whatever else the problem calls for.
 

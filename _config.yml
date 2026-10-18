@@ -1,8 +1,7 @@
 ### Site Settings ###
 title               : Daniel Klevebring
 description         : >-
-                      Staff Machine Learning Engineer at Epidemic Sound.
-                      Building agentic discovery systems and search.
+                      Senior AI Engineer at Odevo building agentic systems.
 baseurl             : ""
 url                 : "https://dakl.github.io"
 remote_theme        : yousinix/portfolYOU
